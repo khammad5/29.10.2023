@@ -13,7 +13,7 @@
 #endregion
 
 
-#region task1
+#region task2
 
 ////n və m ədədləri verilir. Əgər n və m ədədləri hər ikisi cütdürsə n və m ədədlərinin cəmini hesablayın.
 
