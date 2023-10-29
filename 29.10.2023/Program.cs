@@ -1,7 +1,7 @@
 ﻿#region task1
 
 //// 1) Verilmiş n - ədədinin 3-ə və 7-ə bölünüb-bölünməməsini tapın.
-
+//Console.WriteLine("ededi daxil edin");
 //int num1=int.Parse(Console.ReadLine());
 //bool NumberDivision(int num)
 //{
