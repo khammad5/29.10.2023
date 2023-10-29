@@ -2,8 +2,7 @@
 
 //// 1) Verilmiş n - ədədinin 3-ə və 7-ə bölünüb-bölünməməsini tapın.
 
-//int num1 = 22;
-
+//int num1=int.Parse(Console.ReadLine());
 //bool NumberDivision(int num)
 //{
 //    return num % 21 == 0 ? true : false;
